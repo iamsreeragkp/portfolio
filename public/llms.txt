@@ -1,0 +1,41 @@
+# Sreerag K P
+
+> Software engineer specializing in Android development (Kotlin), cross-platform
+> mobile (React Native), and backend services (TypeScript / Node.js / Express).
+
+This file provides a structured, plain-text summary of this site for AI agents
+and language models. The canonical, human-facing version of this content lives
+at https://portfolio-28e2b.web.app/
+
+## Identity
+- Name: Sreerag K P
+- Role: Software Engineer
+- GitHub: https://github.com/iamsreeragkp
+- LinkedIn: https://www.linkedin.com/in/sreerag-kp-skp/
+- Contact email: srrgkp65@gmail.com
+
+## Skills
+- Mobile: Kotlin, Android SDK, Jetpack WorkManager, Jetpack DataStore, React Native, Google Maps Platform
+- Web & Backend: TypeScript, JavaScript, Node.js, Express.js, HTML5, CSS3
+- Cloud & Tools: Firebase Authentication, Firebase Hosting, Git & GitHub, REST APIs
+
+## Featured Projects
+- react-native-otp-input — Reusable OTP input component for React Native.
+  https://github.com/iamsreeragkp/react-native-otp-input
+- express-app-template — TypeScript starter template for Express.js backend services.
+  https://github.com/iamsreeragkp/express-app-template
+- GoogleMaps-Demo — Android app integrating the Google Maps SDK. (Kotlin)
+  https://github.com/iamsreeragkp/GoogleMaps-Demo
+- Firebase_authentication_demo_project — Android app demonstrating Firebase Authentication flows. (Kotlin)
+  https://github.com/iamsreeragkp/Firebase_authentication_demo_project
+- work-manager-project — Android project using Jetpack WorkManager for background tasks. (Kotlin)
+  https://github.com/iamsreeragkp/work-manager-project
+- preferences-datastore-project — Android project using Jetpack DataStore for local storage. (Kotlin)
+  https://github.com/iamsreeragkp/preferences-datastore-project
+
+Full repository list: https://github.com/iamsreeragkp?tab=repositories
+
+## Notes for agents
+- This is a personal portfolio site, single page, statically hosted on Firebase Hosting.
+- Structured data (schema.org Person + WebSite) is embedded as JSON-LD in the page <head>.
+- To contact Sreerag, use the email address above or the LinkedIn profile link.

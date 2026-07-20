@@ -1,0 +1,16 @@
+{
+  "name": "Sreerag K P — Portfolio",
+  "short_name": "Sreerag KP",
+  "description": "Portfolio of Sreerag K P, Software Engineer specializing in Android, React Native, and TypeScript/Node.js.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0e",
+  "theme_color": "#0a0a0e",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
